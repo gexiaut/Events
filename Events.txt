@@ -12,6 +12,11 @@ Sass
 Viperroom
 Praterdome
 Ponyhof
+Fanialive
+B72
+Cabaret Fledermaus
+Weberknecht
+VCBC
 
 
 Eventwebseiten:
@@ -28,5 +33,14 @@ LSH
 Herzfrequenz
 Gesindel der Nacht
 S.O.U.L.
+
+
+
+Festivals:
+
+Nova Rock 
+Frequency
+Flow
+
 
 
