@@ -1,4 +1,4 @@
-Clubs:
+Clubs/Eventlocation:
 
 Werk 
 Grelle Forelle
@@ -17,6 +17,11 @@ B72
 Cabaret Fledermaus
 Weberknecht
 VCBC
+Arena
+Chelsea
+Praterdome
+Passage
+U4
 
 
 Eventwebseiten:
