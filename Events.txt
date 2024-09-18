@@ -1,33 +1,3 @@
-Clubs/Eventlocation:
-
-Werk 
-Grelle Forelle
-O Klub
-Flex
-Flucc
-Usus
-Loft
-Loop
-Sass
-Viperroom
-Praterdome
-Ponyhof
-Fanialive
-B72
-Cabaret Fledermaus
-Weberknecht
-VCBC
-Arena
-Chelsea
-Praterdome
-Passage
-U4
-EXIL
-Pratersauna
-Praterstraße
-VIP
-
-
 Eventwebseiten:
 
 Goodnight
